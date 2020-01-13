@@ -1,0 +1,25 @@
+.search {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+label {
+    display: block;
+    color: Blue;
+
+}
+.searchinput {
+    height: 20px;
+}
+
+.button {
+    height: 25px;
+    -webkit-appearance: none;
+    color: green;
+    width:  90px;
+}
+::placeholder {
+    color:darkgreen;
+
+}
